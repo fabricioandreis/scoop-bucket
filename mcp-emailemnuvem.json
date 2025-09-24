@@ -1,19 +1,19 @@
 {
-    "version": "0.0.18",
+    "version": "0.0.19",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/fabricioandreis/mcp-emailemnuvem/releases/download/v0.0.18/mcp-emailemnuvem_Windows_i386.tar.gz",
+            "url": "https://github.com/fabricioandreis/mcp-emailemnuvem/releases/download/v0.0.19/mcp-emailemnuvem_Windows_i386.tar.gz",
             "bin": [
                 "mcp-emailemnuvem.exe"
             ],
-            "hash": "3a563b986d3b8456d448b6b728fd213207e907f0e9c4802b31b08406b329e7e3"
+            "hash": "1d0b73826ac4349abfae207d5a297f814f404f84c48dabee09d2b1eb1a9ff8d1"
         },
         "64bit": {
-            "url": "https://github.com/fabricioandreis/mcp-emailemnuvem/releases/download/v0.0.18/mcp-emailemnuvem_Windows_x86_64.tar.gz",
+            "url": "https://github.com/fabricioandreis/mcp-emailemnuvem/releases/download/v0.0.19/mcp-emailemnuvem_Windows_x86_64.tar.gz",
             "bin": [
                 "mcp-emailemnuvem.exe"
             ],
-            "hash": "683ef400fa2a29bb1ad079e16ccab6d4b56228b63c7b0bb7b4f73c7102f4652f"
+            "hash": "9d1878cc5fe7afecb3680b3c053959f74d460afddb71007d4b7540b78dc4292a"
         }
     },
     "homepage": "https://github.com/fabricioandreis/mcp-emailemnuvem",
