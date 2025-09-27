@@ -1,12 +1,12 @@
 {
-    "version": "0.0.24",
+    "version": "0.0.25",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fabricioandreis/mcp-emailemnuvem/releases/download/v0.0.24/mcp-emailemnuvem_Windows_x86_64.tar.gz",
+            "url": "https://github.com/fabricioandreis/mcp-emailemnuvem/releases/download/v0.0.25/mcp-emailemnuvem_Windows_x86_64.tar.gz",
             "bin": [
                 "mcp-emailemnuvem.exe"
             ],
-            "hash": "0337ef2bc70caa7aa6e24a182ce249c5597a80996d1d39957a4456919c2ccd49"
+            "hash": "b21ca73e1fc74e2b2670afd791ac1cd9bb0cf7e5227166816538e0cc677b7fc6"
         }
     },
     "homepage": "https://github.com/fabricioandreis/mcp-emailemnuvem",
